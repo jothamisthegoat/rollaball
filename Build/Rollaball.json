@@ -1,7 +1,7 @@
 {
 "companyName": "Jotham Bird",
-"productName": "Roll a ball",
-"productVersion": "1.0",
+"productName": "Roll-a-ball V2",
+"productVersion": "2.0",
 "dataUrl": "Rollaball.data.unityweb",
 "wasmCodeUrl": "Rollaball.wasm.code.unityweb",
 "wasmFrameworkUrl": "Rollaball.wasm.framework.unityweb",
